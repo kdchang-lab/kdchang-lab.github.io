@@ -18,7 +18,7 @@ const products: Project[] = [
   {
     emoji: "📚",
     image: "/img/projects/lifepicksbookstore.webp",
-    title: "人生推書店 - LifePicks Bookstore",
+    title: "LifePicks 人生推書店",
     desc: "人生推書店是一間專為在人生路上感到徬徨、迷惘或卡關的你打造的虛擬獨立書店。無論你正在探索自我、發展事業、經營感情、追求成長、維護健康，或是夢想著財富自由，這裡都有一本書在等著你。",
     tags: ["Bookstore", "Reading", "Curation"],
     status: "live",
